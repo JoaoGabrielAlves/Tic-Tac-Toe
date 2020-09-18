@@ -1,5 +1,7 @@
 # Tic Tac Toe
 
+A simple Tic Tac Toe game made with Vue.js
+
 ## Project setup
 ```
 npm install
